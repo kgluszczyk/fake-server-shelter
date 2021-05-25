@@ -1,0 +1,58 @@
+{
+  "pets": [
+    {
+      "name": "Stefek",
+      "imageUrl": "https://thegarnetmine.com/wp-content/uploads/2021/04/Dog.jpeg",
+      "dateOfBirth": "2020-08-27",
+      "daysInShelter": 40,
+      "sex": "male",
+      "character": "confident",
+      "isSterilized": false
+    },
+    {
+      "name": "Scooby",
+      "imageUrl": "https://www.iamexpat.nl/sites/default/files/styles/article--full/public/dog-on-leash-walking-on-grass.jpg",
+      "dateOfBirth": "2020-09-25",
+      "daysInShelter": 30,
+      "sex": "male",
+      "character": "independent",
+      "isSterilized": false
+    },
+    {
+      "name": "Barry",
+      "imageUrl": "https://www.petmd.com/sites/default/files/german-shepherd-sitting-in-grass.jpg",
+      "dateOfBirth": "2020-09-25",
+      "daysInShelter": 30,
+      "sex": "male",
+      "character": "agressive",
+      "isSterilized": false
+    },
+    {
+      "name": "Tosia",
+      "imageUrl": "https://shortaustralianstories.com.au/wp-content/uploads/2020/09/infertilefemale.jpg",
+      "dateOfBirth": "2020-10-30",
+      "daysInShelter": 30,
+      "sex": "female",
+      "character": "adaptable",
+      "isSterilized": true
+    },
+    {
+      "name": "Dasza",
+      "imageUrl": "https://www.nylabone.com/-/media/Images/Nylabone-NA/US/Dog101/Top-10-Lists/10-popular-female-dog-names.jpg",
+      "dateOfBirth": "2020-09-05",
+      "daysInShelter": 30,
+      "sex": "female",
+      "character": "confident",
+      "isSterilized": true
+    },
+    {
+      "name": "Mika",
+      "imageUrl": "https://i.pinimg.com/originals/4b/ff/25/4bff25ec323f8366bb82a2676213aace.jpg",
+      "dateOfBirth": "2020-09-25",
+      "daysInShelter": 10,
+      "sex": "female",
+      "character": "shy",
+      "isSterilized": false
+    }
+  ]
+}
